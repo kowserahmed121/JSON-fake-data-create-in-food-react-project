@@ -1,0 +1,19 @@
+.food-style img{
+    width: 300px;
+    height: 200px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.food-style{
+    border:  2px solid rgb(253, 112, 5);
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.food-style p{
+    font-weight: bold;
+}

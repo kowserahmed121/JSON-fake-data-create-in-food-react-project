@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Margherita Pizza",
+    "type": "Italian",
+    "price": 8.99,
+    "calories": 300,
+    "image": "https://midwestfoodieblog.com/wp-content/uploads/2021/06/FINAL-margherita-flatbread-4-2.jpg"
+  },
+  {
+    "name": "Sushi Platter",
+    "type": "Japanese",
+    "price": 15.99,
+    "calories": 200,
+    "image": "https://images.squarespace-cdn.com/content/v1/5021287084ae954efd31e9f4/1574925017787-CCURU07ZH0PM2BQOG09D/Premium+Maguro.jpg?format=1500w"
+  },
+  {
+    "name": "Cheeseburger",
+    "type": "American",
+    "price": 10.49,
+    "calories": 450,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cheeseburger.jpg/330px-Cheeseburger.jpg"
+  },
+  {
+    "name": "Pad Thai",
+    "type": "Thai",
+    "price": 12.99,
+    "calories": 350,
+    "image": "https://www.recipetineats.com/tachyon/2018/05/Chicken-Pad-Thai_9.jpg?resize=900%2C1260&zoom=1"
+  },
+  {
+    "name": "Caesar Salad",
+    "type": "Salad",
+    "price": 7.99,
+    "calories": 150,
+    "image": "https://natashaskitchen.com/wp-content/uploads/2019/01/Caesar-Salad-Recipe-3-1024x1536.jpg"
+  },
+  {
+    "name": "Ramen",
+    "type": "Japanese",
+    "price": 9.99,
+    "calories": 400,
+    "image": "https://pinchofyum.com/wp-content/uploads/Homemade-Ramen-3-3-960x1440.jpg"
+  },
+  {
+    "name": "Tacos",
+    "type": "Mexican",
+    "price": 6.99,
+    "calories": 250,
+    "image": "https://www.thecookierookie.com/wp-content/uploads/2024/05/street-tacos-recipe-2.jpg"
+  },
+  {
+    "name": "Falafel Wrap",
+    "type": "Middle Eastern",
+    "price": 8.49,
+    "calories": 300,
+    "image": "https://img.taste.com.au/x6lU6-zh/w720-h480-cfill-q80/taste/2016/11/falafel-and-hommus-wrap-63735-1.jpeg"
+  },
+  {
+    "name": "Vegetable Stir Fry",
+    "type": "Asian",
+    "price": 9.99,
+    "calories": 220,
+    "image": "https://www.mccormick.com/-/media/project/oneweb/mccormick-us/mccormick/recipe-images/stir-fry-vegetables-recipe-1376x774.webp?rev=39b24559427a44c0b945664ee5ce6c94&vd=20240606T181330Z&extension=webp&hash=572F6EB50FF25A59CA4DB47A1959BBC2"
+  }
+]
